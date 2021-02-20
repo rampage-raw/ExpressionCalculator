@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>0.png</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>4.png</file>
+        <file>5.png</file>
+        <file>6.png</file>
+        <file>7.png</file>
+        <file>8.png</file>
+        <file>9.png</file>
+        <file>AC.png</file>
+        <file>addition.png</file>
+        <file>decimal point.png</file>
+        <file>division.png</file>
+        <file>equal.png</file>
+        <file>Left parenthesis.png</file>
+        <file>multiplication.png</file>
+        <file>Right parenthesis.png</file>
+        <file>Subtraction.png</file>
+        <file>0(2).png</file>
+    </qresource>
+</RCC>
